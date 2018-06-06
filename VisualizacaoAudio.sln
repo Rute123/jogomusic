@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualizacaoAudio", "Assembly-CSharp.csproj", "{AF116B1D-F257-619B-0829-EA21632C3273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualizacaoAudio", "Assembly-CSharp-firstpass.csproj", "{3F3F4706-CBF2-FAA9-0583-A18C9927CD3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF116B1D-F257-619B-0829-EA21632C3273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF116B1D-F257-619B-0829-EA21632C3273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF116B1D-F257-619B-0829-EA21632C3273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF116B1D-F257-619B-0829-EA21632C3273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3F4706-CBF2-FAA9-0583-A18C9927CD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3F4706-CBF2-FAA9-0583-A18C9927CD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3F4706-CBF2-FAA9-0583-A18C9927CD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3F4706-CBF2-FAA9-0583-A18C9927CD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

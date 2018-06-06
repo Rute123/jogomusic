@@ -1,2 +1,2 @@
-# jogomusic
-Teste de protótipo no Unity, de jogo de Karaokê e visualização de voz.
+# microphone-demo
+Source code for My Little Unity: Episode 02 - Capturing Microphone Input
